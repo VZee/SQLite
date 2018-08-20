@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Location Aware Input</string>
+    <string name="instructions">Enter text below</string>
+    <string name="submit">Submit</string>
+</resources>
